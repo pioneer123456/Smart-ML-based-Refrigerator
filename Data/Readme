@@ -1,1 +1,4 @@
-
+This directory contains data used to train and test the model.
+It also includes the model weights and the configuration file.
+It has certain files to automate the renaming to the file name
+so that it can be split into required format
