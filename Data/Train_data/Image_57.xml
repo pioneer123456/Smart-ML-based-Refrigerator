@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train_data</folder>
+	<filename>Image_57.jpg</filename>
+	<path>/media/deepak/local disk/project/Smart refrigerator/Smart-ML-based-Refrigerator/Data/Train_data/Image_57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>looks_defective</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>73</ymin>
+			<xmax>359</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

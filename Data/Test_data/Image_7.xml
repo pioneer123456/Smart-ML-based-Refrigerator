@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test_data</folder>
+	<filename>Image_7.jpg</filename>
+	<path>/media/deepak/local disk/project/Smart refrigerator/Smart-ML-based-Refrigerator/Data/Test_data/Image_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>looks_good</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>137</ymin>
+			<xmax>600</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+</annotation>
