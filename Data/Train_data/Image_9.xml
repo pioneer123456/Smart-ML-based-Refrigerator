@@ -1,14 +1,26 @@
 <annotation>
-	<folder>Train_data</folder>
-	<filename>Image_9.jpg</filename>
-	<path>/media/deepak/local disk/project/Smart refrigerator/Smart-ML-based-Refrigerator/Data/Train_data/Image_9.jpg</path>
+	<folder>fresh_banana_fruit</folder>
+	<filename>Image_20.jpg</filename>
+	<path>/media/deepak/local disk/project/Smart refrigerator/Train_data/fresh_banana_fruit/Image_20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>300</width>
-		<height>300</height>
+		<width>500</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>looks_good</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>90</ymin>
+			<xmax>500</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
 </annotation>
